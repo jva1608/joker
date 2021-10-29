@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/sbt.png" aspect-ratio="16:9", SBT - TV Floresta (PA)
+https://srv-mc.sistemafloresta.com.br/tvfloresta/tracks-v1a1/mono.m3u8?token=76f9ee988810fdea7c0007cf8ddfaa0
+#EXTINF:0 type="stream" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/recordtv.png" aspect-ratio="16:9", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/rba.png", Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/gazeta.png" aspect-ratio="16:9", TV Gazeta GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/chunklist_w822372930.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://listaiptv.gratis/logos/imagens/culturapara.png" aspect-ratio="16:9", Cultura Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/chunklist_w1181354748.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", SBT CASTANHAL
+https://streaming.portaltvparaense.com.br:50176/rtp_live/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="3:2", TV VALE URUARA
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/chunklist_w396056944.m3u8
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="16:9", SBT TAILANDIA
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", REDE CLONE
+https://secure-ds.serving-sys.com/resources/PROD/asset/1073745317/VIDEO/20210930/Adsplay-BR_Amanco-PI878-1_ferramentas_video-5_15-segundos_65632455197983530.MP4
+#EXTINF:0 type="stream" channelId="-1" aspect-ratio="3:2" background="https://images.app.goo.gl/2ua3CVRVuDbQwY83A", TV MARAJOARA
+https://video01.kshost.com.br/tv31966/tv31966/chunklist_w1704124926.m3u8
+#EXTINF:0 type="stream" channelId="2449", CANÇÃO NOVA
+https://r1---sn-ovguxcg-cxae.googlevideo.com/videoplayback?expire=1634798834&ei=krhwYe3IBoLZwgSMy6voAQ&ip=177.104.254.164&id=HuhPPV2biIs.1&itag=243&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=iO&mm=44%2C29&mn=sn-ovguxcg-cxae%2Csn-uphcg51pa-bg0e&ms=lva%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=24&initcwndbps=422500&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=vM1NrRCSPlMv9L8hpR9mEmQG&gir=yes&mt=1634776588&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB_EMBEDDED_PLAYER&n=9EryRmPA-VEOYQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgY9LbOtiKs3JL_MNLmTfXB6JRMNuM75ekPHiMs_EHFi0CIChnNECGmfccBZn4_742IdLP1WkMaqXDLAx7rppaUMEd&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgbk_Z2htlXLfDGb2kjByr4voJLd6r65VLsAW0FsQ3OhMCICf9QSuHmFg2QzocqOzCrWG1nQv1P0Ma4FTbyfFjCN2d&alr=yes&cpn=kPncLpIE8QjGLoCk&cver=1.20211017.0.0&sq=9843&rn=3&rbuf=4881
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", SUPER RADIO MARAJOARA AM
+http://cast2.hoost.com.br:9614/stream
+#EXTINF:0 type="stream" channelId="-1", RADIO LIBERAL FM
+https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/chunklist_w980934249.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", RAULAND 95.1 FM
+https://ssl.ifantasy.com.br:6672//;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", 99 FM BELEM
+http://hts02.kshost.com.br:8862/live
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", RADIO CLUBE DO PARA
+http://ice01.kshost.com.br:8000/live
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", RADIO LIBERAL AM
+http://177.105.192.70:9000/oliberalcbn.mp3
+#EXTINF:0 type="stream" channelId="-1" group="RADIO", ALDEIA FM 105.9 CAMETA
+http://svrstream4.svreua.com:8766/;?1634768499778
